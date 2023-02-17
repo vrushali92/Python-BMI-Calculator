@@ -26,7 +26,7 @@ For more information, please refer this link: https://www.calculator.net/bmi-cal
 
 # What was done?
 
-1. 3 inputs from the users: Name, Height(m), Weight(Kg)
+1. 3 inputs from the user: Name, Height(m), Weight(Kg)
 2. Used Exception Handling to avoid invalid data
 3. Calculated the BMI from the formula provided in the link (https://www.calculator.net/bmi-calculator.html)
 4. The program deduces the range in which the BMI lies. 
